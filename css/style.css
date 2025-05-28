@@ -1,0 +1,10 @@
+.carousel-item img {
+  height: 500px;
+  object-fit: cover;
+}
+footer{
+	background-color: #eeecec;
+	font-family: Times New Roman;
+	text-align: center;
+	padding: 5px;
+}
