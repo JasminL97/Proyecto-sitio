@@ -1,6 +1,6 @@
 # 🌐 Proyecto-sitio
 
-Este es un sitio web educativo 🌸 sobre **Corea del Sur**, donde se presenta su cultura, gastronomía, ciudades populares, templos, escritura y tradiciones. El proyecto fue creado con fines académicos y de aprendizaje de desarrollo web.
+Este es un sitio web sobre **Corea del Sur**, donde se presenta su cultura, gastronomía, ciudades populares, templos, escritura y tradiciones. El proyecto fue creado con fines académicos y de aprendizaje de desarrollo web.
 
 ## 📁 Contenido del sitio
 
