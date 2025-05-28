@@ -11,7 +11,7 @@ Este es un sitio web sobre **Corea del Sur**, donde se presenta su cultura, gast
 - 🏯 `palacios_templos.html`: Templos y palacios como Bulguksa y Changdeokgung.
 - 🈳 `idioma_Escritura.html`: Idioma coreano y su sistema de escritura.
 - 🎎 `tradiciones.html`: Costumbres y celebraciones culturales.
-
+Enlace del sitio a traves de 
 ## 🛠️ Tecnologías utilizadas
 
 - HTML5
@@ -19,6 +19,10 @@ Este es un sitio web sobre **Corea del Sur**, donde se presenta su cultura, gast
 - JavaScript  
 - Bootstrap
 - GitHub Pages
+## 🔗 Enlace al sitio
+
+Sitio aquí: (https://JasminL97.github.io/Proyecto-sitio/)
+
 
 ## 👩‍💻 Autora
 Jasmin Díaz - Estudiante de Ingeniería en Sistemas - UTEC
