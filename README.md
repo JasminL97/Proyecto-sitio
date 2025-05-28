@@ -12,19 +12,13 @@ Este es un sitio web sobre **Corea del Sur**, donde se presenta su cultura, gast
 - 🈳 `idioma_Escritura.html`: Idioma coreano y su sistema de escritura.
 - 🎎 `tradiciones.html`: Costumbres y celebraciones culturales.
 
-## 🗂️ Estructura del proyecto
-
-- 📁 `/css`: Hojas de estilo.
-- 📁 `/img`: Imágenes utilizadas en el sitio.
-- 📁 `/js`: Scripts para funcionalidades del sitio.
-
 ## 🛠️ Tecnologías utilizadas
 
-- 🔤 HTML5
-- 🎨 CSS3  
-- 🧠 JavaScript  
-- 🎀 Bootstrap
-- 🌐 GitHub Pages
+- HTML5
+- CSS3  
+- JavaScript  
+- Bootstrap
+- GitHub Pages
 
 ## 👩‍💻 Autora
 Jasmin Díaz - Estudiante de Ingeniería en Sistemas - UTEC
