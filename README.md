@@ -27,5 +27,4 @@ Este es un sitio web educativo 🌸 sobre **Corea del Sur**, donde se presenta s
 - 🌐 GitHub Pages
 
 ## 👩‍💻 Autora
-Jasmin Diaz - Estudiante egresada de la carrera de Ingenieria en Sistemas - UTEC
-
+Jasmin Díaz - Estudiante de Ingeniería en Sistemas - UTEC
