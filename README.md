@@ -4,14 +4,14 @@ Este es un sitio web sobre **Corea del Sur**, donde se presenta su cultura, gast
 
 ## 📁 Contenido del sitio
 
-- 🏠 `index.html`: Página principal del sitio.
-- 🍲 `platos_tipicos.html`: Platos tradicionales coreanos.
-- 🍶 `bebidas.html`: Bebidas típicas, como soju y makgeolli.
-- 🏙️ `ciudades.html`: Las ciudades más conocidas y visitadas del país.
-- 🏯 `palacios_templos.html`: Templos y palacios como Bulguksa y Changdeokgung.
-- 🈳 `idioma_Escritura.html`: Idioma coreano y su sistema de escritura.
-- 🎎 `tradiciones.html`: Costumbres y celebraciones culturales.
-Enlace del sitio a traves de 
+- index.html`: Página principal del sitio.
+- platos_tipicos.html`: Platos tradicionales coreanos.
+- bebidas.html`: Bebidas típicas, como soju y makgeolli.
+- ciudades.html`: Las ciudades más conocidas y visitadas del país.
+- palacios_templos.html`: Templos y palacios como Bulguksa y Changdeokgung.
+- idioma_Escritura.html`: Idioma coreano y su sistema de escritura.
+- tradiciones.html`: Costumbres y celebraciones culturales.
+
 ## 🛠️ Tecnologías utilizadas
 
 - HTML5
