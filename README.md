@@ -21,8 +21,7 @@ Enlace del sitio a traves de
 - GitHub Pages
 ## 🔗 Enlace al sitio
 
-Sitio aquí: (https://JasminL97.github.io/Proyecto-sitio/)
-
+Sitio aquí: https://jasminl97.github.io/Proyecto-sitio/
 
 ## 👩‍💻 Autora
 Jasmin Díaz - Estudiante de Ingeniería en Sistemas - UTEC
